@@ -1,5 +1,5 @@
 // Replace this URL with your deployed Apps Script Web App URL
-const SCRIPT_URL = 'YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyDW1fEMw8RfXBNKCqbyl79OEaTqBHvGixQAiPf9LOyOJe1ifF73yu8jVpR1b_un-tZ/exec';
 
 // DOM Elements
 const form = document.getElementById('rsvp-form');
